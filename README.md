@@ -1,2 +1,3 @@
-# django_listings
+# Django Listings
+
 Django Web Development Listings Project
